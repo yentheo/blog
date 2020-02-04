@@ -1,7 +1,6 @@
 ---
 title: "Making Your Own Furniture Part 1"
 date: 2020-02-04T21:39:23+01:00
-draft: true
 ---
 
 When I went to the store to design my kitchen with the people of the store, the salesperson came up with the idea of a little wall to put some stuff on like spices, olive oil, or kitchen utensils. They provided a piece of countertop to use on the little wall, but they weren't gonna provide the wall itself.
