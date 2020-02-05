@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "My Personal Holocron"
 theme = "hugo-notepadium"
 staticDir = ["static"]
+disqusShortname = "cptspectra"
