@@ -1,6 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.yentheoerlemans.com/"
 languageCode = "en-us"
 title = "My Personal Holocron"
 theme = "hugo-notepadium"
 staticDir = ["static"]
-disqusShortname = "cptspectra"
+
+disqusShortname = "blog-yentheoerlemans"
+
+[params.comments]
+enable = true

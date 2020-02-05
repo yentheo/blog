@@ -11,11 +11,11 @@ I started designing in Sketchup.
 
 First the skeleton of the case:
 
-{{< figure src="/20180711_111845.jpg" title="skeleton in Sketchup" width="70%" >}}
+{{< figure src="/36653898_223175238512262_8218523506917244928_n.jpg" title="skeleton in Sketchup" width="70%" >}}
 
 After that, I started putting the skeleton together. Having drawn it in Sketchup gave me an easy way to check measurements. If you compare the Sketchup design with the actual skeleton, you will find some differences. While creating the skeleton, I noticed I didn't need that many cross beams, so most differences will be because of those things.
 
-{{< figure src="/36653898_223175238512262_8218523506917244928_n.jpg" title="skeleton in real life" width="70%" >}}
+{{< figure src="/20180711_111845.jpg" title="skeleton in real life" width="70%" >}}
 
 Next the case how it would look next to my kitchen counter:
 
